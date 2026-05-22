@@ -1,8 +1,8 @@
 # Arij's portfolio
 Analytics portofolio 
 ## Projet 1 : Etude sur la santé mentale des étudiants
-## This project is about student's mental health 
-This is a project I did for my first year masters education.
+## This project is about student's mental health analysis
+This is a project I did for my first year in masters education.
 # description 
 Dans mon projet, j'ai travaillé avec quatre dimensions (dim_etudiant, dim_specialité, dim_date, dim_sante_mentale) ainsi qu'une table de faits. J'ai écrit le code SQL pour la modélisation de la base de données, puis j'ai créé une nouvelle Data Warehouse (DWH_sante). J'y ai appliqué la structure de ma base de données. Ensuite, j'ai effectué l'intégration, le nettoyage et l'alimentation des données (ETL) avec Talend. Enfin, j'ai créé des rapports visuels avec Power BI pour mieux expliquer et analyser l'état mental des étudiants en appliquant des requêtes pour mesurer les taux de dépression, d'anxiété, la somme des crises de panique, etc.
 
